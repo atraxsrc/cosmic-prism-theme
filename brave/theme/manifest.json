@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Cosmic Prism",
+  "version": "1.0",
+  "description": "Navy theme from the COSMIC Prism rice: azure icons, one petal-pink accent.",
+  "icons": {
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [6, 13, 31],
+      "frame_inactive": [6, 13, 31],
+      "frame_incognito": [6, 13, 31],
+      "frame_incognito_inactive": [6, 13, 31],
+      "background_tab": [6, 13, 31],
+      "background_tab_inactive": [6, 13, 31],
+      "background_tab_incognito": [6, 13, 31],
+      "background_tab_incognito_inactive": [6, 13, 31],
+      "toolbar": [14, 22, 40],
+      "tab_text": [247, 195, 198],
+      "tab_background_text": [100, 136, 234],
+      "tab_background_text_inactive": [100, 136, 234],
+      "tab_background_text_incognito": [100, 136, 234],
+      "tab_background_text_incognito_inactive": [100, 136, 234],
+      "bookmark_text": [224, 247, 250],
+      "toolbar_button_icon": [100, 136, 234],
+      "omnibox_background": [38, 46, 64],
+      "omnibox_text": [224, 247, 250],
+      "ntp_background": [6, 13, 31],
+      "ntp_text": [224, 247, 250],
+      "ntp_link": [247, 195, 198]
+    }
+  }
+}

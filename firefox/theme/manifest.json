@@ -1,0 +1,50 @@
+{
+  "manifest_version": 2,
+  "name": "Cosmic Prism",
+  "version": "1.0",
+  "description": "Navy theme from the COSMIC Prism rice: azure icons, one petal-pink accent.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{d6f935a7-362c-4782-a8be-6efc23b5655a}"
+    }
+  },
+  "icons": {
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "64": "icons/icon-64.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "toolbar": "#0E1628",
+      "toolbar_text": "#e0f7fa",
+      "frame": "#060D1F",
+      "tab_background_text": "#6488ea",
+      "tab_text": "#f7c3c6",
+      "toolbar_field": "#262e40",
+      "toolbar_field_text": "#e0f7fa",
+      "toolbar_field_border_focus": "#F7C3C6",
+      "toolbar_field_highlight": "#F7C3C6",
+      "toolbar_field_highlight_text": "#060D1F",
+      "tab_line": "#F7C3C6",
+      "popup": "#0E1628",
+      "popup_text": "#e0f7fa",
+      "button_background_active": "#F7C3C6",
+      "button_background_hover": "#262e40",
+      "frame_inactive": "#060D1F",
+      "icons_attention": "#F7C3C6",
+      "icons": "#6488ea",
+      "ntp_background": "#060D1F",
+      "ntp_text": "#e0f7fa",
+      "popup_border": "#85CEC4",
+      "popup_highlight_text": "#060D1F",
+      "popup_highlight": "#F7C3C6",
+      "sidebar_border": "#262e40",
+      "sidebar_highlight_text": "#060D1F",
+      "sidebar_highlight": "#F7C3C6",
+      "sidebar_text": "#e0f7fa",
+      "tab_loading": "#F7C3C6"
+    }
+  }
+}
