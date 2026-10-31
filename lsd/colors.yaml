@@ -1,0 +1,41 @@
+# 256-colour codes nearest the Prism palette on navy (lsd 1.0.0 does not accept
+# #hex here): 218 petal, 167 ruby, 217 coral, 68 azure, 254 ice,
+# 116 teal, 103 haze, 60 dusk.
+user: 254
+group: 103
+permission:
+  read: 103
+  write: 254
+  exec: 218
+  exec-sticky: 218
+  no-access: 60
+  octal: 116
+  acl: 116
+  context: 116
+date:
+  hour-old: 254
+  day-old: 68
+  older: 60
+size:
+  none: 60
+  small: 68
+  medium: 254
+  large: 167
+inode:
+  valid: 68
+  invalid: 167
+links:
+  valid: 116
+  invalid: 167
+tree-edge: 60
+git-status:
+  default: 60
+  unmodified: 60
+  ignored: 60
+  new-in-index: 68
+  new-in-workdir: 68
+  typechange: 254
+  deleted: 167
+  renamed: 116
+  modified: 217
+  conflicted: 167
