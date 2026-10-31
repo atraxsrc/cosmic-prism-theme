@@ -1,0 +1,39 @@
+{
+  "name": "cosmic-prism-theme",
+  "displayName": "Cosmic Prism",
+  "description": "Dark colour theme from the COSMIC Prism rice, syntax as in its Neovim scheme.",
+  "version": "1.0.0",
+  "publisher": "atraxsrc",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#060D1F",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atraxsrc/cosmic-prism-theme"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "cosmic",
+    "prism",
+    "cursor"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Prism",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-prism-color-theme.json"
+      }
+    ]
+  }
+}
