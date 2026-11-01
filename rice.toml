@@ -1,0 +1,6 @@
+name = "Prism"
+mode = "dark"
+theme = "Prism.ron"
+pair = "prismday"
+terminal = "Prism-term.ron"
+btop = "Prism"
