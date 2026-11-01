@@ -13,6 +13,7 @@ the light half is [cosmic-prismday-theme](https://github.com/atraxsrc/cosmic-pri
 ![COSMIC](https://img.shields.io/badge/COSMIC-1.0.0-6488ea?style=for-the-badge)
 ![Prism](https://img.shields.io/badge/Theme-Prism-060d1f?style=for-the-badge&labelColor=f7c3c6)
 ![Firefox](https://img.shields.io/badge/Firefox-Prism-f7c3c6?style=for-the-badge&logo=firefox-browser&logoColor=white)
+[![Gallery](https://img.shields.io/badge/Gallery-All_rices-f7c3c6?style=for-the-badge)](https://atraxsrc.github.io/cosmic-rices/)
 ![License](https://img.shields.io/badge/License-MIT-8893b3?style=for-the-badge)
 
 </div>
