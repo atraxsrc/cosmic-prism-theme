@@ -1,0 +1,45 @@
+# Prism for Ghostty, part of cosmic-prism-theme (MIT).
+# Colours follow the COSMIC Terminal scheme (cosmic-term/).
+#
+# Install: ./ghostty/install.sh puts this in ~/.config/ghostty/themes/, then in
+# ~/.config/ghostty/config:
+#   theme = Prism
+# or, with the Prism Day half installed too, following COSMIC's Dark / Light toggle:
+#   theme = dark:Prism,light:PrismDay
+
+background = #060D1F
+foreground = #E0F7FA
+
+cursor-color = #F7C3C6
+cursor-text = #060D1F
+
+selection-background = #262E40
+selection-foreground = #E0F7FA
+
+split-divider-color = #5A6B8C
+unfocused-split-fill = #060D1F
+
+# black
+palette = 0=#030710
+palette = 8=#5A6B8C
+# red
+palette = 1=#E95C4B
+palette = 9=#ED7D6F
+# green
+palette = 2=#6488EA
+palette = 10=#83A0EE
+# yellow
+palette = 3=#D5EDEB
+palette = 11=#EAF6F5
+# blue
+palette = 4=#F7C3C6
+palette = 12=#FBDEE0
+# magenta
+palette = 5=#FFA69E
+palette = 13=#FFCBC7
+# cyan
+palette = 6=#85CEC4
+palette = 14=#85CEC4
+# white
+palette = 7=#E1E9F5
+palette = 15=#F6F8FF
