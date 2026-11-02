@@ -43,7 +43,7 @@ flowchart LR
 - [x] `./icons/install.sh` for the **Cosmic-Prism** icons, `./cosmic/install.sh` for fonts and the terminal look
 - [x] `./zsh/install.sh`, `./lsd/install.sh`, `./fastfetch/install.sh`
 - [x] Cursor: Oxygen-Prism-Petal
-- [x] Wallpaper: `backgrounds/prism-gem.jpg`
+- [x] Wallpaper: `backgrounds/prism-anime.png`
 - [ ] Screenshot for the README
 
 ## The baseline every rice shares
