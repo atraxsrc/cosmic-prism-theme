@@ -18,6 +18,6 @@ done
 
 cat <<'EOF'
 
-Done. Needs the Maple fonts and Cosmic-Prism icons (./icons/install.sh) installed, and the Prism
+Done. Needs the fonts (./fonts/install.sh) and Cosmic-Prism icons (./icons/install.sh) installed, and the Prism
 terminal scheme imported, or COSMIC falls back to its defaults.
 EOF
